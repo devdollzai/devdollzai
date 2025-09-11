@@ -8,6 +8,8 @@ I'm passionate about building intelligent systems and AI-powered applications. M
 
 - [**ClipboardAI Widget**](https://github.com/devdollzai/ClipboardAI-Widget) - Commercial AI-powered clipboard manager with smart summarization and tagging (Pricing: $29.99 - $299.99).
 - [**Sovereign AI Cluster**](https://github.com/devdollzai/Sovereign-AI-Cluster) - Distributed AI cluster with local LLM inference and autonomous agents (Available for licensing).
+- [**DevDollz Axiom-Zero Engine**](https://github.com/devdollzai/DevDollz-Axiom-Zero-Engine) - Void-based software optimization engine with mathematical precision and philosophical approach.
+- [**Upscayl-DevDollz**](https://github.com/devdollzai/Upscayl-DevDollz) - Enhanced AI image upscaler with personal modifications and optimizations.
 
 ### 🛠️ Technologies
 
