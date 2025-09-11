@@ -37,7 +37,8 @@ I'm available for AI development consulting, custom AI solutions, and licensing 
 
 - LinkedIn: [Your LinkedIn]
 - Email: [Your Email]
-- Website: [Your Website]
+- Website: [devdollz.co](https://devdollz.co)
+- Twitter: [@devdollzai](https://twitter.com/devdollzai), [@axiomhive](https://twitter.com/axiomhive)
 - GitHub: [@devdollzai](https://github.com/devdollzai)
 
 ---
