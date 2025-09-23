@@ -35,8 +35,7 @@ Offering expertise in AI system design, implementation, and commercialization. A
 
 ### Contact Information
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email Address]
+- Email: [DevDollzAi@Gmail.com]
 - Website: [axiomhive.co](https://axiomhive.co)
 - Twitter: [@devdollzai](https://twitter.com/devdollzai), [@axiomhive](https://twitter.com/axiomhive)
 - GitHub: [@devdollzai](https://github.com/devdollzai)
