@@ -6,11 +6,10 @@ I specialize in advanced AI systems, focusing on sovereign, decentralized archit
 
 ### Featured Projects
 
-- [**ClipboardAI Widget**](https://github.com/devdollzai/ClipboardAIWidget) - Advanced AI-driven clipboard management system featuring intelligent summarization, contextual tagging, and seamless integration. Commercial licensing available with tiered pricing models.
 - [**Sovereign AI Cluster**](https://github.com/devdollzai/Sovereign-AI-Cluster) - Decentralized AI infrastructure enabling local large language model inference and autonomous agent orchestration. Designed for scalable, privacy-preserving deployments.
 - [**Axiom-Hive**](https://github.com/devdollzai/Axiom-Hive) - Pioneering protocol for 4D neuro-symbolic reasoning on distributed hardware, achieving unprecedented computational efficiency and decision-making accuracy.
 - [**DevDollz Axiom-Zero Engine**](https://github.com/devdollzai/DevDollz-Axiom-Zero-Engine) - Mathematical optimization framework leveraging void-based algorithms for precise software performance enhancement.
-- [**Upscayl-DevDollz**](https://github.com/devdollzai/Upscayl-DevDollz) - Refined AI image upscaling solution with custom optimizations for superior resolution and fidelity.
+
 
 ### Technologies & Expertise
 
